@@ -1,5 +1,8 @@
 # Opdracht
 
+In deze repository vind je een eenvoudig Maven project. Maak een fork van deze repo, los de opdrachten hieronder op en push jouw resultaat terug naar github. 
+ We bekijken samen jouw oplossing. (Indien je geen github account hebt, download deze repo dan als zip en stuur het resultaat via mail naar tim.vanlaer@axxes.com)
+
 *Let op! Je mag de klasses in de package com.axxes.java.repository niet aanpassen. Ga met de andere klasses aan de slag of voeg zelf nieuwe toe.*
 
 ### To do:
